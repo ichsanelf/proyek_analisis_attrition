@@ -63,7 +63,7 @@ import seaborn as sns
 ## Business Dashboard
 
 **Link Dashboard** : [LookerStudio-Dashboard](https://lookerstudio.google.com/u/0/reporting/ef868bae-f17f-471e-b8d2-5fd997eb6f12/page/B81aE)  
-![Local Image](ichsanelf-dashboard.jpg)    
+![Local Image](ichsanelf-dashboard.JPG)    
 
 Dashboard ini dibuat dengan menggunakan **Looker Studio**. Grafik-grafik yang terdapat pada dashboard memiliki informasi seperti:
 1. Jumlah karyawan. 
